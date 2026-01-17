@@ -1,7 +1,2 @@
-yapapa mmm uyapapa
-meow meow
-Payment A
-Payment B
-
+yapapa meow
 comment
-new changes now
